@@ -1,6 +1,6 @@
 > :warning: ** Do not just copy this script and use it, you need to change a few things for this to work properly. **<br><br><br>
 I am leaving this here incase someone wants to do the same thing, this example is running from our ITSM system TOPdesk.<br>
-The mean point to take from this is that you should be able to replace it quite easily with your own data source for Customer data.
+The main point to take from this is that you should be able to replace it quite easily with your own data source for Customer data.
 
 # Modules used
 * PSNetboxFunctions
