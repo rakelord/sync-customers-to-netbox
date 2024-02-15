@@ -1,0 +1,16 @@
+{
+    "LogToFile": "True",
+    "Netbox": {
+        "Url": "<NETBOX URL>",
+        "API": {
+            "Token": "<NETBOX API TOKEN>"
+        }
+    },
+    "TOPdesk": {
+        "Url": "<TOPDESK URL>",
+        "API": {
+            "Username": "<API USERNAME>",
+            "Secret": "<API SECRET>"
+        }
+    }
+}

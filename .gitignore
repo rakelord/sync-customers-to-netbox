@@ -1,0 +1,3 @@
+# exclude config files
+/Logs*
+/config.json
